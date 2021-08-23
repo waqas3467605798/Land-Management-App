@@ -4,17 +4,23 @@ background-color:black;
 #header{
 background-color:blue;
 color:white;
-box-sizing:border-box;
+/* box-sizing:border-box; */
 min-height:70px;
-font-size:35px;
+font-size:22px;
 text-align:center;
 padding-top:15px;
 border-bottom-right-radius:100px;
 border-bottom-left-radius:100px;
 }
 
-#based{
-font-size:16px;
+#bot{
+    background-color:blue;
+}
+
+
+.based{
+font-size:13px;
+color:white
 }
 
 .landInputs{
@@ -54,7 +60,7 @@ font-weight:bold;
 
 #per{
 
-font-size:22px;
+font-size:18px;
 text-align:center;
 margin:0px;
 color:red;
